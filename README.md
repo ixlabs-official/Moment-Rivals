@@ -4,9 +4,10 @@
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Solidity](https://img.shields.io/badge/Solidity-8C8CFF?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![Cadence](https://img.shields.io/badge/Cadence-FD8A3C?style=for-the-badge)](https://developers.flow.com/cadence)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-0057FF?style=for-the-badge)](https://www.mozilla.org/en-US/MPL/2.0/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-F7DF1E?style=for-the-badge)](https://www.mozilla.org/en-US/MPL/2.0/)
 
+![Moment Rivals Logo](./assets/logos/MomentRivals_Logo_WhiteonBlack-2.png)
 
 ---
 
