@@ -7,7 +7,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-F7DF1E?style=for-the-badge)](https://www.mozilla.org/en-US/MPL/2.0/)
 
-![Moment Rivals Logo](./assets/logos/MomentRivals_Logo_WhiteonBlack-2.png)
+![Moment Rivals Logo](./assets/Readme-splash.jpg)
 
 ---
 
@@ -60,7 +60,7 @@ moment-rivals/
 ├── frontend/              # Web client: Deck builder, UI, onboarding  
 ├── contracts/             # Smart contracts: Cadence / Solidity (EVM)  
 ├── docs/                  # Design docs, gameplay specs, diagrams  
-├── assets/                # Logos, card mockups, UI previews  
+├── assets/                # Game logos, card mockups, UI previews  
 ├── README.md              # Project intro, status, roadmap  
 ├── LICENSE                # MPL-2.0 License 
 └── .gitignore
@@ -71,7 +71,7 @@ moment-rivals/
 ### 📣 Community
 - Twitter: [@MomentRivals](https://twitter.com/MomentRivals)  
 - Grant Profile: [Flow GrantDAO on DoraHacks](https://dorahacks.io/flow/detail)  
-- Pitch: [Moment Rivals - Pitch Deck]()  
+- Pitch: [Moment Rivals - Pitch Deck](https://drive.google.com/file/d/1-ytuEJTA1PITX_1nPgMTKH6FecVqxggT/view?usp=share_link)  
 - Website: [Launching Soon]() *(momentrivals.com)*
 
 ---
